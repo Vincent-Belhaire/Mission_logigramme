@@ -1,0 +1,45 @@
+MISSION LOGIGRAMMES — TECHNOLOGIE 4e — VERSION 3
+
+TEST LOCAL
+Ouvrir index.html. Garder les quatre HTML et le dossier assets ensemble.
+Les trois missions sont reliées depuis l’accueil et la bannière.
+Les réponses sont enregistrées sur cet appareil, dans ce navigateur.
+Sur un poste partagé, utiliser une session ou un profil distinct par élève.
+Les anciennes sauvegardes sont conservées, mais ne sont pas reprises dans
+ce nouveau parcours, car les exercices ont changé.
+
+DEUX SÉANCES DE 55 MINUTES
+Séance 1 : 5 min de lancement, module 1 (25 min), module 2 (25 min).
+Séance 2 : module 3 (55 min), avec six enquêtes, dessins sur brouillon,
+tests de fonctionnement et bilan. Prévoir une feuille par élève.
+57 réponses : 45 défis automatiques et 12 justifications écrites.
+Les durées sont des repères pédagogiques, à ajuster après un essai en classe.
+
+AIDES
+Chaque question possède un bouton Écouter et un Coup de pouce à la demande.
+Les schémas possèdent également une description textuelle accessible.
+La lecture vocale dépend des voix disponibles sur l’appareil.
+Le zoom du texte et l’utilisation au clavier sont prévus.
+
+BILAN DÉTAILLÉ
+Le bilan conserve les premières et dernières réponses, essais, erreurs,
+aides consultées et justifications. Corriger n’efface pas les erreurs.
+Le score automatique mesure la réussite au premier essai sur tous les défis.
+Les écrits et les dessins sont à relire par le professeur, sans note automatique.
+Le bilan est imprimable sur plusieurs pages A4 et exportable en HTML.
+La reprise par compétence conserve le travail déjà fait.
+
+DÉPLOIEMENT ÉLÉA
+Importer Mission-Logigrammes-Elea-SCORM12.zip dans une activité Paquetage SCORM.
+Ne pas utiliser l’archive générale pour cet import.
+Le paquet réunit les trois modules dans un même objet SCORM 1.2 : note globale,
+quatre objectifs séparés, interactions détaillées et reprise du parcours.
+Les objectifs ne créent pas automatiquement quatre colonnes du carnet de notes.
+Le manifeste imsmanifest.xml est inclus à la racine de l’archive SCORM.
+Le guide professeur, avec le corrigé et les réglages conseillés, est séparé
+du paquet élève : Guide-professeur-Logigrammes.html.
+
+VALIDATION
+Parcours complet testé avec une plateforme SCORM simulée, notamment erreurs,
+corrections et reprise après rechargement. Les tracés des schémas sont contrôlés.
+Un essai d’import avec un compte élève dans votre instance Éléa reste nécessaire.

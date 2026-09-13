@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MISSION_LOGIGRAMMES_4E_V3" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata><schema>ADL SCORM</schema><schemaversion>1.2</schemaversion></metadata>
+<organizations default="ORG_LOGIGRAMMES"><organization identifier="ORG_LOGIGRAMMES"><title>Mission Logigrammes — 4e — 2 × 55 min</title><item identifier="ITEM_PARCOURS" identifierref="RES_PARCOURS" isvisible="true"><title>Lire, suivre, compléter et corriger</title></item></organization></organizations>
+<resources><resource identifier="RES_PARCOURS" type="webcontent" adlcp:scormtype="sco" href="index.html"><file href="index.html"/><file href="module-1-lire-suivre.html"/><file href="module-2-completer.html"/><file href="module-3-corriger.html"/><file href="assets/course.js"/><file href="assets/diagrams.js"/><file href="assets/lms.js"/><file href="assets/learning.js"/><file href="assets/learning.css"/><file href="assets/favicon.svg"/></resource></resources></manifest>
